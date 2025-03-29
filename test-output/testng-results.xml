@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-03-29T14:20:11 IST" name="Default suite" finished-at="2025-03-29T14:20:11 IST" duration-ms="130">
+  <suite started-at="2025-03-29T15:19:14 IST" name="Default suite" finished-at="2025-03-29T15:19:14 IST" duration-ms="130">
     <groups>
     </groups>
-    <test started-at="2025-03-29T14:20:11 IST" name="Default test" finished-at="2025-03-29T14:20:11 IST" duration-ms="130">
-      <class name="githpackage.Sample">
-        <test-method signature="sample()[pri:0, instance:githpackage.Sample@22555ebf]" started-at="2025-03-29T14:20:11 IST" name="sample" finished-at="2025-03-29T14:20:11 IST" duration-ms="24" status="PASS">
+    <test started-at="2025-03-29T15:19:14 IST" name="Default test" finished-at="2025-03-29T15:19:14 IST" duration-ms="130">
+      <class name="githpackage.Login">
+        <test-method signature="loginOperation()[pri:0, instance:githpackage.Login@3c46e67a]" started-at="2025-03-29T15:19:14 IST" name="loginOperation" finished-at="2025-03-29T15:19:14 IST" duration-ms="32" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- sample -->
-      </class> <!-- githpackage.Sample -->
+        </test-method> <!-- loginOperation -->
+      </class> <!-- githpackage.Login -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
